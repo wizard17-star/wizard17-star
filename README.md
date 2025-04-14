@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋 I'm Serhat Aslan</h1>
-<h3 align="center">🚀 Data Engineer | Data Enthusiast | Clean Data, Clean Code</h3>
+<h3 align="center">🚀 Data Engineer | Researcher | M.S. in Data Science</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1kJ2ZyYFxUA7qOKjI8/giphy.gif" width="300"/>
@@ -12,15 +12,17 @@
 
 ```yaml
 name: Serhat Aslan
-role: Data Engineer
-focus: Scalable Data Systems, ML Pipelines
-tools: Spark, Airflow, SQL, Python
-interests: DataOps, Analytics, Cloud Engineering
+location: Warsaw, Poland 🇵🇱
+current_role: Test Data Management Specialist @ BMO
+education: Master's Degree in Data Science
+skills: ["Data Engineering", "Data Warehousing", "Cloud Migration", "Power BI", "SQL Optimization"]
 ```
 
-🔍 Passionate about transforming messy data into valuable insights  
-💡 Building ETL pipelines, modeling data, and automating processes  
-📍 Based in Türkiye | 💼 Working @ TEMSA  
+🔍 I have over 3 years of experience in data engineering and business analysis  
+📦 Built data warehouse architectures for 25+ systems (SAP, Salesforce, Dynamics)  
+📊 Created 50+ Power BI dashboards  
+🚀 Led cloud migration of enterprise apps to Azure  
+⚙️ Optimized 100+ SQL queries & streamlined documentation  
 
 ---
 
@@ -30,20 +32,20 @@ interests: DataOps, Analytics, Cloud Engineering
 |-------------------|-------------------------------------------------------------------|
 | 👨‍💻 Languages      | Python, SQL, Bash                                                 |
 | 🛠️ Tools           | Airflow, Docker, Git, Jupyter, Linux                             |
-| ☁️ Cloud & Big Data| GCP, AWS, Spark, BigQuery, Kafka, Hadoop                         |
+| ☁️ Cloud & Big Data| Azure, GCP, Spark, BigQuery, Kafka, Hadoop                       |
 | 📊 Visualization   | Power BI, Matplotlib, Seaborn                                    |
 | 🧠 ML Basics       | Scikit-learn, XGBoost, Pandas, MLflow                            |
 
 ---
 
-### 💼 Projects
+### 💼 Featured Projects
 
 | 🚀 Project | 🔍 Description |
 |-----------|----------------|
-| `🛰️ RAG QA with Gemini` | Context-aware Q&A pipeline using Gemini & FAISS |
-| `🚗 Car Price Prediction` | Predictive model with Random Forest + Feature Engineering |
-| `📊 DataViz Notebooks` | Visual EDA projects with storytelling focus |
-| `🔄 Real-time Pipelines` | Batch + streaming data pipelines (Airflow, Kafka) |
+| `🛰️ Gemini RAG System` | Q&A pipeline with vector search using Gemini & FAISS |
+| `🚗 Vehicle Price Prediction` | Random Forest-based model with feature engineering |
+| `📊 Fabric Dashboard` | Analytical dashboard using Microsoft Fabric |
+| `🔄 Real-time Pipelines` | Batch & streaming pipelines (Airflow + Kafka) |
 
 ---
 
@@ -60,16 +62,16 @@ interests: DataOps, Analytics, Cloud Engineering
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVtZnh6eGVvZzdhN2RkMW02c3FwZnZnMXA4enF6NWFvZG5idHJzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8/giphy.gif" width="220"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Let's Connect
 
 - 🌐 [LinkedIn – serhat-aslan](https://www.linkedin.com/in/serhat-aslan/)
 - ✍️ [Medium Blog – serhat-aslan.medium.com](https://serhat-aslan.medium.com/)
-- 💬 Always open to collaboration, mentoring or a coffee chat ☕
+- 💬 Open to data engineering, research & mentorship opportunities
 
 ---
 
