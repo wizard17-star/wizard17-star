@@ -1,60 +1,83 @@
+
+<!-- 🧠🎨 CREATIVE & VISUAL GITHUB PROFILE README -->
+
 <div align="center">
-  <!-- Dynamic header banner -->
-  <img src="https://media.giphy.com/media/3o7ZeTmU77UlPyeR2w/giphy.gif" alt="Data Flow Banner" width="100%">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" alt="Data Banner">
 </div>
 
-<h1 align="center">Hi there 👋, I'm Serhat Aslan</h1>
+<h1 align="center">Hi, I'm <span style="color:#007acc;">Serhat Aslan</span> 👋</h1>
 <h3 align="center">🚀 Test Data Management Specialist @ BMO | Data Engineer | Researcher | M.S. in Data Science</h3>
 
 <p align="center">
-  <!-- Profile GIF -->
-  <img src="https://media.giphy.com/media/1kJ2ZyYFxUA7qOKjI8/giphy.gif" width="300" alt="Creative Data Enthusiast">
+  <img src="https://media.giphy.com/media/1kJ2ZyYFxUA7qOKjI8/giphy.gif" width="260" alt="Coding Vibes">
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 Who am I?
 
 ```yaml
 name: Serhat Aslan
-role: Test Data Management Specialist @ BMO | Data Engineer | Researcher
-location: Toronto, Ontario, Canada
-education: M.S. in Data Science (Polish-Japanese Academy of Information Technology)
-skills: ["Data Engineering", "Data Warehousing", "Cloud Migration", "Power BI", "SQL Optimization"]
-With over 3 years of experience in data engineering and business analysis, I excel in transforming raw data into strategic insights.
+based_in: Toronto, ON, Canada 🇨🇦
+current_role: Test Data Management Specialist @ BMO
+education: M.S. in Data Science (PJATK, Poland)
+interests: ["Data Engineering", "Cloud Solutions", "Power BI", "SQL", "AI Systems"]
+```
 
-What I do:
+🎓 I'm a passionate data professional with 3+ years of experience in building robust pipelines, migrating enterprise systems to the cloud, and creating stunning dashboards.  
+📊 I bring data to life through clean architecture, optimization, and storytelling.  
+🧭 I navigate chaos in data — and deliver clarity.
 
-Architect scalable data warehouses and data pipelines
+---
 
-Create engaging dashboards (50+ Power BI projects)
+### 🧰 Tech Toolbox
 
-Lead cloud migrations and optimize enterprise SQL queries
+| 💡 Stack        | 🛠️ Technologies                                                                 |
+|----------------|----------------------------------------------------------------------------------|
+| Languages      | Python, SQL, Bash                                                                |
+| Data Tools     | Airflow, Spark, Hadoop, Kafka, dbt                                               |
+| Cloud & Infra  | Azure, GCP, Docker, Kubernetes                                                   |
+| BI & Viz       | Power BI, Tableau, Plotly, Seaborn                                               |
+| ML & Science   | Scikit-learn, XGBoost, Pandas, NumPy, MLflow                                     |
+| Workflow       | Git, GitHub Actions, JIRA, Agile Scrum                                           |
 
-Foster data governance and streamline documentation
+---
 
-⚙️ Tech Stack
-Area	Technologies
-👨‍💻 Languages	Python, SQL, Bash
-🛠️ Tools	Airflow, Docker, Git, Jupyter, Linux
-☁️ Cloud & Big Data	Azure, GCP, Spark, BigQuery, Kafka, Hadoop
-📊 Visualization	Power BI, Matplotlib, Seaborn
-🧠 ML & Analytics	Scikit-learn, XGBoost, Pandas, MLflow
-💼 Featured Projects
-🚀 Project	🔍 Description
-🛰️ Gemini RAG System	Q&A pipeline integrating Gemini AI & FAISS for advanced vector search
-🚗 Vehicle Price Prediction	Predictive modeling using Random Forest with advanced feature engineering
-📊 Fabric Dashboard	Analytical dashboard developed with Microsoft Fabric
-🔄 Real-time Pipelines	Combined batch & streaming data pipelines (Airflow + Kafka)
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wizard17-star&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard17-star&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/> </p>
-⚡ Fun with Data
-<p align="center"> <!-- Creative and dynamic data visuals --> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVtZnh6eGVvZzdhN2RkMW02c3FwZnZnMXA4enF6NWFvZG5idHJzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Data Animation"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8/giphy.gif" width="220" alt="Creative Code"> </p>
-🔗 Let's Connect
-🌐 LinkedIn: serhat-aslan
+### 🚀 Highlight Projects
 
-✍️ Medium Blog: serhat-aslan.medium.com
+- 🛰️ **Gemini RAG System**: Contextual Q&A pipeline powered by Gemini + FAISS.
+- 📈 **Microsoft Fabric Dashboard**: Real-time visual insights from structured datasets.
+- 🔄 **ETL & Streaming Pipelines**: Batch + streaming architecture with Kafka and Airflow.
+- 🤖 **ML Model Deployment**: Car price prediction with Random Forests and interpretable outputs.
 
-💬 Always open to collaboration, mentorship, and exciting data projects!
+---
 
-<div align="center"> <em>🚀 “I don't just work with data, I create impactful solutions with purpose.”</em> </div> ```
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wizard17-star&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard17-star&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+### 🧩 I Love Building With Data
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVtZnh6eGVvZzdhN2RkMW02c3FwZnZnMXA4enF6NWFvZG5idHJzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8/giphy.gif" width="220"/>
+</p>
+
+---
+
+### 📬 Let's Connect
+
+- 🌐 [LinkedIn – serhat-aslan](https://www.linkedin.com/in/serhat-aslan/)
+- ✍️ [Medium – serhat-aslan.medium.com](https://serhat-aslan.medium.com/)
+- 💬 Let’s chat about data architecture, ML systems or creative dashboards!
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions...;Designing+pipelines+with+purpose.;Automating+insights+at+scale."/>
+</p>
