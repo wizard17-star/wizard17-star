@@ -8,17 +8,13 @@
 <h1 align="center">Hi, I'm <span style="color:#007acc;">Serhat Aslan</span> 👋</h1>
 <h3 align="center">🚀 Test Data Management Specialist @ BMO | Data Engineer | Researcher | M.S. in Data Science</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1kJ2ZyYFxUA7qOKjI8/giphy.gif" width="260" alt="Coding Vibes">
-</p>
-
 ---
 
 ### 🧠 Who am I?
 
 ```yaml
 name: Serhat Aslan
-based_in: Toronto, ON, Canada 🇨🇦
+based_in: Warsaw, Poland
 current_role: Test Data Management Specialist @ BMO
 education: M.S. in Data Science (PJATK, Poland)
 interests: ["Data Engineering", "Cloud Solutions", "Power BI", "SQL", "AI Systems"]
