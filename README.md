@@ -1,79 +1,37 @@
+### Hi, I'm Serhat Aslan 👋
 
-<!-- 🧠🎨 CREATIVE & VISUAL GITHUB PROFILE README -->
+**Data Engineer** in Warsaw, Poland — Azure, data warehousing and Power BI.
+Test Data Management Specialist at **BMO** · M.Sc. in Data Science, **PJATK** (2026).
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" alt="Data Banner">
-</div>
-
-<h1 align="center">Hi, I'm <span style="color:#007acc;">Serhat Aslan</span> 👋</h1>
-<h3 align="center">🚀 Test Data Management Specialist @ BMO | Data Engineer | Researcher | M.S. in Data Science</h3>
+🌐 [serhataslan.com](https://www.serhataslan.com) · 💼 [LinkedIn](https://www.linkedin.com/in/serhat-aslan/) · ✍️ [Medium](https://medium.com/@serhat-aslan) · 📄 [Resume](https://www.serhataslan.com/cv)
 
 ---
 
-### 🧠 Who am I?
+**What I've done**
 
-```yaml
-name: Serhat Aslan
-based_in: Warsaw, Poland
-current_role: Test Data Management Specialist @ BMO
-education: M.S. in Data Science (PJATK, Poland)
-interests: ["Data Engineering", "Cloud Solutions", "Power BI", "SQL", "AI Systems"]
-```
+- Designed the Azure data warehouse and ETL for **25+ applications** at TEMSA (SAP, Salesforce, Dynamics, Karmak, SQL Server) and led their cloud migration
+- Built **50+ Power BI** dashboards and optimized **100+ SQL** queries
+- Introduced data governance, master data management, data cataloging and GDPR/KVKK data masking
 
-🎓 I'm a passionate data professional with 3+ years of experience in building robust pipelines, migrating enterprise systems to the cloud, and creating stunning dashboards.  
-📊 I bring data to life through clean architecture, optimization, and storytelling.  
-🧭 I navigate chaos in data — and deliver clarity.
+**Projects**
 
----
+| Project | What it is |
+| --- | --- |
+| [**dramt**](https://github.com/wizard17-star/dramt) | MSc thesis: risk-aware multimodal Transformer (prices, macro, FinBERT sentiment) for multi-horizon forecasting and portfolio VaR — 88 runs, leakage-safe walk-forward evaluation |
+| [**data-platform**](https://github.com/wizard17-star/data-platform) | CDC pipeline: PostgreSQL → Debezium → Kafka → Spark → Delta Lake medallion lakehouse, fully Dockerized |
+| [**TEG-Project**](https://github.com/wizard17-star/TEG-Project) | RAG evaluation app comparing retrieval and prompting techniques with Gemini and FAISS |
+| [**Consumer-Complaints-Classification**](https://github.com/wizard17-star/Consumer-Complaints-Classification) | NLP classification of 277K CFPB complaints — TF-IDF + SMOTE, F1 0.747 |
+| [**ai-travel-assistant**](https://github.com/wizard17-star/ai-travel-assistant) | LLM travel planner with FastAPI, Streamlit and external APIs |
 
-### 🧰 Tech Toolbox
+**Certifications**
 
-| 💡 Stack        | 🛠️ Technologies                                                                 |
-|----------------|----------------------------------------------------------------------------------|
-| Languages      | Python, SQL, Bash                                                                |
-| Data Tools     | Airflow, Spark, Hadoop, Kafka, dbt                                               |
-| Cloud & Infra  | Azure, GCP, Docker, Kubernetes                                                   |
-| BI & Viz       | Power BI, Tableau, Plotly, Seaborn                                               |
-| ML & Science   | Scikit-learn, XGBoost, Pandas, NumPy, MLflow                                     |
-| Workflow       | Git, GitHub Actions, JIRA, Agile Scrum                                           |
+- [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/SerhatAslan-6535/D72B36A01DD84512) — 2025
+- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/SerhatAslan-8258/468AA8CB49CAF8C7) — 2025
+- [Implement a data warehouse in Microsoft Fabric](https://learn.microsoft.com/api/credentials/share/en-us/SerhatAslan-7152/6487E34CD910364B) — 2024
+- ITIL® Foundation — 2023
 
----
+**Tools**
 
-### 🚀 Highlight Projects
+`Azure Data Factory` `SQL Server` `T-SQL` `Python` `Power BI` `DAX` `SSAS` `Microsoft Fabric` `Spark` `Kafka` `Debezium` `Delta Lake` `Docker` `PyTorch` `scikit-learn`
 
-- 🛰️ **Gemini RAG System**: Contextual Q&A pipeline powered by Gemini + FAISS.
-- 📈 **Microsoft Fabric Dashboard**: Real-time visual insights from structured datasets.
-- 🔄 **ETL & Streaming Pipelines**: Batch + streaming architecture with Kafka and Airflow.
-- 🤖 **ML Model Deployment**: Car price prediction with Random Forests and interpretable outputs.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wizard17-star&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard17-star&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-### 🧩 I Love Building With Data
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVtZnh6eGVvZzdhN2RkMW02c3FwZnZnMXA4enF6NWFvZG5idHJzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8/giphy.gif" width="220"/>
-</p>
-
----
-
-### 📬 Let's Connect
-
-- 🌐 [LinkedIn – serhat-aslan](https://www.linkedin.com/in/serhat-aslan/)
-- ✍️ [Medium – serhat-aslan.medium.com](https://serhat-aslan.medium.com/)
-- 💬 Let’s chat about data architecture, ML systems or creative dashboards!
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions...;Designing+pipelines+with+purpose.;Automating+insights+at+scale."/>
-</p>
+💬 Open to Data Engineering roles — reach me at **serhataslan0009@gmail.com**
